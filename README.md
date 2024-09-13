@@ -5,6 +5,10 @@ This Python project detects claps and whistles in real-time using a microphone c
 ## Features
 
 - Real-time detection of claps and whistles.
+
+https://github.com/user-attachments/assets/984b3a1d-6f05-4f19-9795-76a3eb29975f
+
+
 - Simple setup with adjustable thresholds for detecting sounds.
 - Avoids repeated detection of the same sound through delays.
 - Designed to run on Raspberry Pi 4B but can work on any system that supports the required libraries.
